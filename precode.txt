@@ -1,0 +1,9 @@
+Check calender
+Check current day
+if current day is 1 week from calender event
+	post event to facebook
+post event to facebook
+	log into facebook
+	act as page
+	start event
+	fill forms
